@@ -30,5 +30,35 @@
 			"username": "Anna",
 			"email": "Iyer@gmail.com"
 		}
+		{
+			"id": 6,
+			"name": "Manish Avasthi",
+			"username": "Kandi",
+			"email": "Avasthi@gmail.com"
+		}
+		{
+			"id": 7,
+			"name": "Kunal Joggi",
+			"username": "Lover Boy",
+			"email": "Joggi@gmail.com"
+		}
+		{
+			"id": 8,
+			"name": "Kailash Panigrahi",
+			"username": "Bro",
+			"email": "Panigrahi@gmail.com"
+		}
+		{
+			"id": 9,
+			"name": "Gaurav Bamugade",
+			"username": "Slow bOy",
+			"email": "Bamugade@gmail.com"
+		}
+		{
+			"id": 10,
+			"name": "Sunil Bahelia",
+			"username": "Kanchaa-cheena",
+			"email": "Bahelia@gmail.com"
+		}
 	]
 }
