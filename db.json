@@ -1,0 +1,34 @@
+{
+	"user": [
+		{
+			"id": 1,
+			"name": "Pratik Bapat",
+			"username": "Pratik bhaudya",
+			"email": "bapat@gmail.com"
+		},
+		{
+			"id": 2,
+			"name": "Akhil Patro",
+			"username": "Body boidor",
+			"email": "patro@gmail.com"
+		},
+		{
+			"id": 3,
+			"name": "Praful Adate",
+			"username": "Beautiful",
+			"email": "Adate@gmail.com"
+		},
+		{
+			"id": 4,
+			"name": "Bhavesh Audichya",
+			"username": "alion",
+			"email": "bhavu@gmail.com"
+		},
+		{
+			"id": 5,
+			"name": "Karthik Iyer",
+			"username": "Anna",
+			"email": "Iyer@gmail.com"
+		}
+	]
+}
