@@ -59,6 +59,25 @@
 			"name": "Sunil Bahelia",
 			"username": "Kanchaa-cheena",
 			"email": "Bahelia@gmail.com"
-		}
+		},
+		{
+			"id": 11,
+			"name": "Shubham Yadav"
+			"username": "barbarian",
+			"email": "shubham@gmail.com"
+		},
+		{
+			"id": 12,
+			"name": "Jash Agarwal"
+			"username": "Golu",
+			"email": "jash_agarwal@gmail.com"
+		},
+		{
+			"id": 13,
+			"name": "Gururaj Poojary"
+			"username": "guru",
+			"email": "gururaj@gmail.com"
+		},
+		
 	]
 }
